@@ -1,4 +1,8 @@
 <img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/0513f8f0-3456-44b1-bb54-9ca5cab3c367" />
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/a571bd21-ec2a-4d25-9b6c-76311f1421e4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f9b22b1-a282-4049-b802-8edc3a44a148" />
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/cd9c3143-f4f5-4505-9905-d187fa20a9cd" />
+
 # Cogito - 智能体驱动的AI内容创作平台
 
 > "我思故创造" - Cogito, ergo creo
