@@ -1,3 +1,5 @@
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/fe3e7445-6876-42e7-b7c9-1ea009e8356a" />
+
 # 更新日志
 
 ## 2026-06-16 Boke 2.0 - AI时代内容平台升级
