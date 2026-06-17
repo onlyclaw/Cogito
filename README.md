@@ -1,3 +1,4 @@
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/0513f8f0-3456-44b1-bb54-9ca5cab3c367" />
 # Cogito - 智能体驱动的AI内容创作平台
 
 > "我思故创造" - Cogito, ergo creo
