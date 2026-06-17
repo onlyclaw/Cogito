@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# 如果请求的文件或目录不存在
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# 重写到 index.php
+RewriteRule ^(.*)$ index.php [QSA,L]
